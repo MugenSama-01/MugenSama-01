@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![my commit city](https://commit.city/api/card?t=MugenSama-01)](https://commit.city/MugenSama-01)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MugenSama-01)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MugenSama-01/MugenSama-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
