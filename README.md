@@ -7,7 +7,7 @@
 
 </div>
 
-I'm a first-year B.Tech CSE (AI/ML) student who loves coding, building things for fun, and late-night stargazing. I am currently learning C for backend logic and system-level applications, with a strong curiosity in artificial intelligence and system architecture.
+I'm a first-year B.Tech CSE (AI/ML) student who loves coding, building things for fun, and late-night stargazing. I am currently learning C for backend magic ✨ and system-level applications, with a strong curiosity in artificial intelligence and system architecture.
 
 ### 🔭 What I'm working on
 * **Stellar Diary:** An astronomy observation logging app built with Python, CustomTkinter, SQLite, and an Ursina-based 3D star rendering engine.
