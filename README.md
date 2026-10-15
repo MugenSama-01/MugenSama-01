@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Someone 👋 
+# Hi there, I'm GUGU GAGA 👋 
 ### Your kawaii dev! (づ ᴗ _ᴗ)づ♡
 
 [![my commit city](https://commit.city/api/card?t=MugenSama-01)](https://commit.city/MugenSama-01)
