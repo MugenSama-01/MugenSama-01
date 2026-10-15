@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![my commit city](https://commit.city/api/card?t=MugenSama-01)](https://commit.city/MugenSama-01)
 <!--
 **MugenSama-01/MugenSama-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
